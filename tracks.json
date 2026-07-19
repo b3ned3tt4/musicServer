@@ -16,5 +16,71 @@
     "artist": "Lana Del Rey",
     "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/03._Lana_Del_Rey_Venice_Bitch.mp3",
     "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "Fuck it I love you",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/04._Lana_Del_Rey_Fuck_it_I_love_you.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "Doin' Time",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/05._Lana_Del_Rey_Doin'_Time.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "Love song",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/06._Lana_Del_Rey_Love_song.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "Cinnamon Girl",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/07._Lana_Del_Rey_Cinnamon_Girl.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "How to disappear",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/08._Lana_Del_Rey_How_to_disappear.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "California",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/09._Lana_Del_Rey_California.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "The Next Best American Record",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/10._Lana_Del_Rey_The_Next_Best_American_Record.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "The Greatest",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/11._Lana_Del_Rey_The_greatest.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "Bartender",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/12._Lana_Del_Rey_Bartender.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "Happiness is a butterfly",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/13._Lana_Del_Rey_Happiness_is_a_butterfly.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "Hope is a dangerous thing for a woman like me to have - but I have it",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/14._Lana_Del_Rey_hope_is_a_dangerous_thing_for_a_woman_like_me_to_have_but_i_have_it.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
   }
 ]

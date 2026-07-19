@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Norman fucking Rockwell",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/my-music-server/main/Lana_Del_Rey_NFR/01._Lana_Del_Rey_Norman_fucking_Rockwell.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/my-music-server/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "Mariners Apartment Complex",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/my-music-server/main/Lana_Del_Rey_NFR/02._Lana_Del_Rey_Mariners_Apartment_Complex.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/my-music-server/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "Venice Bitch",
+    "artist": "Lana Del Rey",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/my-music-server/main/Lana_Del_Rey_NFR/03._Lana_Del_Rey_Venice_Bitch.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/my-music-server/main/Lana_Del_Rey_NFR/cover.jpg"
+  }
+]

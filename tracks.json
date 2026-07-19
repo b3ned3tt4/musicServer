@@ -82,5 +82,65 @@
     "artist": "Lana Del Rey",
     "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/14._Lana_Del_Rey_hope_is_a_dangerous_thing_for_a_woman_like_me_to_have_but_I_have_it.mp3",
     "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Lana_Del_Rey_NFR/cover.jpg"
+  },
+  {
+    "title": "SKINNY",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/01._Billie_Eilish_-_SKINNY.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
+  },
+  {
+    "title": "LUNCH",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/02._Billie_Eilish_-_LUNCH.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
+  },
+  {
+    "title": "CHIHIRO",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/03._Billie_Eilish_-_CHIHIRO.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
+  },
+  {
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/04._Billie_Eilish_-_BIRDS_OF_A_FEATHER.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
+  },
+  {
+    "title": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/05._Billie_Eilish_-_WILDFLOWER.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
+  },
+  {
+    "title": "THE GREATEST",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/06._Billie_Eilish_-_THE_GREATEST.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
+  },
+  {
+    "title": "L'AMOUR DE MA VIE",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/07._Billie_Eilish_-_L'AMOUR_DE_MA_VIE.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
+  },
+  {
+    "title": "THE DINER",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/08._Billie_Eilish_-_THE_DINER.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
+  },
+  {
+    "title": "BITTERSUITE",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/09._Billie_Eilish_-_BITTERSUITE.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
+  },
+  {
+    "title": "BLUE",
+    "artist": "Billie Eilish",
+    "audioUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/10._Billie_Eilish_-_BLUE.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/b3ned3tt4/musicServer/main/Billie_Eilish_HMHAS/cover.jpg"
   }
 ]
